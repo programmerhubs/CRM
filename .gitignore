@@ -4,3 +4,8 @@
 
 /crm-app/node_modules
 /CRM.API
+/CRM.API/.vs/CRM.API
+/CRM.API/CRM.API/obj
+/CRM.API/CRM.Domain/obj
+/CRM.API/CRM.Infrastructure/obj
+/CRM.API/CRM.Services/obj
